@@ -7,6 +7,10 @@
     }
     .video-height{
         height: 300px!important;
-
+    }
+    .h1-video{
+        font-size: 24px;
+        margin-bottom: 15px!important;
+        margin-top: 15px!important;
     }
 }
